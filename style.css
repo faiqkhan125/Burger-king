@@ -1,0 +1,28 @@
+Text
+body{
+    background-color: rgb(245, 235, 220);
+}
+.button1{
+    background-color: red;
+}
+.button2{
+    background-color: brown;
+}
+.logo-main{
+    font-size: 25px;
+}
+.button3 {
+    border: 1px solid red;
+}
+.button3 a{
+
+    color: red;
+}
+#container-1 h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    line-height: 1.125em;
+    color:brown;
+}
+
+ 
+
